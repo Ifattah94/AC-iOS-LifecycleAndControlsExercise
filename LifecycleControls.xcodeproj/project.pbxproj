@@ -13,6 +13,8 @@
 		549DC1BE1FB17CDE004B918C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 549DC1BD1FB17CDE004B918C /* Assets.xcassets */; };
 		549DC1C11FB17CDE004B918C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 549DC1BF1FB17CDE004B918C /* LaunchScreen.storyboard */; };
 		549DC1C91FB17ED1004B918C /* Song.swift in Sources */ = {isa = PBXBuildFile; fileRef = 549DC1C81FB17ED1004B918C /* Song.swift */; };
+		81F5E8C81FB25A8A004C1F81 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81F5E8C71FB25A8A004C1F81 /* SettingsViewController.swift */; };
+		81F5E8CA1FB27057004C1F81 /* Settings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81F5E8C91FB27057004C1F81 /* Settings.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		549DC1C01FB17CDE004B918C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		549DC1C21FB17CDE004B918C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		549DC1C81FB17ED1004B918C /* Song.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Song.swift; sourceTree = "<group>"; };
+		81F5E8C71FB25A8A004C1F81 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		81F5E8C91FB27057004C1F81 /* Settings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Settings.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				549DC1B61FB17CDE004B918C /* AppDelegate.swift */,
 				549DC1B81FB17CDE004B918C /* ViewController.swift */,
 				549DC1BA1FB17CDE004B918C /* Main.storyboard */,
+				81F5E8C91FB27057004C1F81 /* Settings.swift */,
+				81F5E8C71FB25A8A004C1F81 /* SettingsViewController.swift */,
 				549DC1C81FB17ED1004B918C /* Song.swift */,
 				549DC1BD1FB17CDE004B918C /* Assets.xcassets */,
 				549DC1BF1FB17CDE004B918C /* LaunchScreen.storyboard */,
@@ -142,6 +148,8 @@
 				549DC1C91FB17ED1004B918C /* Song.swift in Sources */,
 				549DC1B91FB17CDE004B918C /* ViewController.swift in Sources */,
 				549DC1B71FB17CDE004B918C /* AppDelegate.swift in Sources */,
+				81F5E8C81FB25A8A004C1F81 /* SettingsViewController.swift in Sources */,
+				81F5E8CA1FB27057004C1F81 /* Settings.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
